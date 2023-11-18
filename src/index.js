@@ -26,7 +26,7 @@ if(resultado <= 10){
 }
     
 //mensagem imprimida
-console.log(rank)
+console.log("O Herói tem saldo de " + resultado + " está no nível de " + rank)
 
 //função
 function subt(vitorias, derrotas){
